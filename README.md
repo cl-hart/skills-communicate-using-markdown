@@ -27,6 +27,9 @@ In addition to code blocks, some code blocks should be rendered differently depe
 
 ### Example 1
 
+var myVar = "Hello, world!";
+
+
 <pre>
 ```
 $ git init
